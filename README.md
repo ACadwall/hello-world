@@ -11,3 +11,7 @@ Trying this addition out.
 ## Subheader
 
 Trying to operate in Visual Studio Code!
+
+## Local Development
+
+1. Open index.htm in your browser.
